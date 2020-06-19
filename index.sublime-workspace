@@ -1,0 +1,334 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"cadas",
+				"cadastrarEmail"
+			],
+			[
+				"new",
+				"newsletter"
+			],
+			[
+				"filterva",
+				"filter_var"
+			],
+			[
+				"senha",
+				"senha"
+			],
+			[
+				"ar",
+				"arquivo"
+			],
+			[
+				"arqi",
+				"arquivoAberto"
+			],
+			[
+				"date_def",
+				"date_default_timezone_set"
+			],
+			[
+				"email",
+				"email"
+			],
+			[
+				"mysqlicon",
+				"mysqli_connect_error"
+			],
+			[
+				"php",
+				"php"
+			],
+			[
+				"base",
+				"base64_decode"
+			],
+			[
+				"sessionun",
+				"session_unset"
+			],
+			[
+				"arqu",
+				"arquivo"
+			],
+			[
+				"_",
+				"_FILES"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"globals",
+				"globals\t$GLOBALS['…']"
+			],
+			[
+				"glo",
+				"GLOBALS"
+			],
+			[
+				"fras",
+				"fraseNovamente"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"margin",
+				"margin-bottom\tproperty"
+			],
+			[
+				"TI",
+				"TITLE\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 72.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/wamp64/www/cursophpoo.com/metodos_magicos.php",
+		"/C/wamp64/www/cursophpoo.com/index.php",
+		"/C/wamp64/www/cursophpoo.com/metodos_estaticos.php",
+		"/C/wamp64/www/cursophpoo.com/composicao.php",
+		"/C/wamp64/www/cursophpoo.com/agregacao.php",
+		"/C/wamp64/www/cursophpoo.com/tratamento_excecao.php",
+		"/C/wamp64/www/cursophpoo.com/associacao.php",
+		"/C/wamp64/www/cursophpoo.com/referencia_clonagem.php",
+		"/C/wamp64/www/cursophpoo.com/namespace.php",
+		"/C/wamp64/www/cursophpoo.com/interface.php",
+		"/C/wamp64/www/cursophpoo.com/classes/produto.php",
+		"/C/wamp64/www/cursophpoo.com/models/produto.php",
+		"/C/wamp64/www/cursophpoo.com/classe_abstrata.php",
+		"/C/wamp64/www/cursophpoo.com/constante.php",
+		"/C/Users/rocha/AppData/Roaming/Sublime Text 3/Packages/User/getset.sublime-snippet",
+		"/C/wamp64/www/cursophp.com/35-expressoes_regulares.php",
+		"/C/wamp64/www/cursophp.com/34-manipulacao_arquivo.php",
+		"/C/wamp64/www/cursophp.com/arquivo.txt",
+		"/C/wamp64/www/cursophp.com/33-datas.php",
+		"/C/wamp64/www/cursophp.com/32-cookies.php",
+		"/C/wamp64/www/cursophp.com/31-CRUD/php_action/create.php",
+		"/C/wamp64/www/cursophp.com/31-CRUD/index.php",
+		"/C/wamp64/www/cursophp.com/31-CRUD/php_action/delete.php",
+		"/C/wamp64/www/cursophp.com/31-CRUD/php_action/db_connect.php",
+		"/C/wamp64/www/cursophp.com/31-CRUD/adicionar.php",
+		"/C/wamp64/www/cursophp.com/31-CRUD/php_action/update.php",
+		"/C/wamp64/www/cursophp.com/31-CRUD/editar.php",
+		"/C/wamp64/www/cursophp.com/31-CRUD/includes/footer.php",
+		"/C/wamp64/www/cursophp.com/31-CRUD/includes/menssagem.php",
+		"/C/wamp64/www/cursophp.com/31-CRUD/includes/header.php",
+		"/C/wamp64/www/cursophp.com/30-include_require/footer.php",
+		"/C/wamp64/www/cursophp.com/30-include_require/header.php",
+		"/C/wamp64/www/cursophp.com/30-include_require/index.php",
+		"/C/wamp64/www/cursophp.com/18-funcoes_para_string.php",
+		"/C/wamp64/www/cursophp.com/29-criptografia.php",
+		"/C/wamp64/www/cursophp.com/28-sistema_login/db_connect.php",
+		"/C/wamp64/www/cursophp.com/28-sistema_login/logout.php",
+		"/C/wamp64/www/cursophp.com/28-sistema_login/home.php",
+		"/C/wamp64/www/cursophp.com/28-sistema_login/index.php",
+		"/C/wamp64/www/cursophp.com/27-sessoes/index.php",
+		"/C/wamp64/www/cursophp.com/27-sessoes/home.php",
+		"/C/wamp64/www/cursophp.com/27-sessoes/logout.php",
+		"/C/wamp64/www/cursophp.com/26-upload/index.php",
+		"/C/wamp64/www/cursophp.com/25-Formularios_Filter_Sanitizacao/index.php",
+		"/C/wamp64/www/cursophp.com/26-upload/arquivos/5ee646d16700e.jpg",
+		"/C/wamp64/www/cursophp.com/24-Formularios_Filters/index.php",
+		"/C/wamp64/www/cursophp.com/23-formularios_GET/dados.php",
+		"/C/wamp64/www/cursophp.com/23-formularios_GET/index.php",
+		"/C/wamp64/www/cursophp.com/21-variaveis_superglobais.php",
+		"/C/wamp64/www/cursophp.com/22-formularios_POST/dados.php",
+		"/C/wamp64/www/cursophp.com/22-formularios/dados.php",
+		"/C/wamp64/www/cursophp.com/22-formularios_POST/index.php",
+		"/C/wamp64/www/cursophp.com/22-formularios/index.php",
+		"/C/wamp64/www/cursophp.com/20-criando_funcoes.php",
+		"/C/wamp64/www/cursophp.com/19-funcoes_numeros.php",
+		"/C/wamp64/www/cursophp.com/17-for_foreach.php",
+		"/C/wamp64/www/cursophp.com/16-while_do_while.php",
+		"/C/wamp64/www/cursophp.com/15-operadores_logicos.php",
+		"/C/wamp64/www/cursophp.com/14-operadores_de_comparacao.php",
+		"/C/wamp64/www/cursophp.com/09-funcoes_arrays.php",
+		"/C/wamp64/www/cursophp.com/08-arrays.php",
+		"/C/wamp64/www/cursophp.com/10-condicionais.php",
+		"/C/wamp64/www/cursophp.com/11-operadores_aritimeticos.php",
+		"/C/wamp64/www/cursophp.com/12-incremento_decremento.php",
+		"/C/wamp64/www/cursophp.com/13-operadores_atribuicao.php",
+		"/C/wamp64/www/cursophp.com/07-constantes.php",
+		"/C/wamp64/www/cursophp.com/06-escopo_de_variaveis.php",
+		"/C/wamp64/www/cursophp.com/05-aspas_e_concatenacao.php",
+		"/C/wamp64/www/cursophp.com/04-tipos_de_dados.php",
+		"/C/wamp64/www/cursophp.com/03-variaveis_variaveis.php",
+		"/C/wamp64/www/cursophp.com/02-variaveis.php",
+		"/C/wamp64/www/cursophp.com/01-fundamentos_basicos.php",
+		"/C/wamp64/www/cursophp.com/index.html",
+		"/C/wamp64/www/cursophp.com/index.php",
+		"/C/Users/rocha/OneDrive/Área de Trabalho/bootstrap-4.4.1-dist/index.html",
+		"/C/Users/rocha/OneDrive/Área de Trabalho/Documentos/teste php/div-span.html",
+		"/C/Users/rocha/OneDrive/Área de Trabalho/Documentos/teste php/div-spam.html",
+		"/C/Users/rocha/OneDrive/Área de Trabalho/Documentos/teste php/classes-ids.html",
+		"/C/Users/rocha/OneDrive/Documentos/teste php/classes-ids.html",
+		"/C/Users/rocha/OneDrive/Documentos/teste php/inline_stryle.html",
+		"/C/Users/rocha/OneDrive/Área de Trabalho/PROJETOS/Primeiro Projeto/contato.html",
+		"/C/Users/rocha/Documents/testes1.htm",
+		"/C/Users/rocha/OneDrive/Área de Trabalho/PROJETOS/Primeiro Projeto/projeto.html",
+		"/C/Users/rocha/OneDrive/Área de Trabalho/PROJETO/Projeto Aula/projeto.html",
+		"/C/Users/rocha/OneDrive/Área de Trabalho/Projeto Aula/css/estilo-teste.css",
+		"/C/Users/rocha/OneDrive/Área de Trabalho/Projeto Aula/index.html"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 38.0
+	},
+	"input":
+	{
+		"height": 50.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 72.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 266.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
